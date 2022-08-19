@@ -12,3 +12,14 @@
 1. Contact us
 1. Cart
 
+### Technologies
+
+* Bootstrap 4
+* HTML and CSS
+* JavaScript
+* Node.js
+
+##### Credits to:
+###### Kudakwashe Mukombachoto
+
+
